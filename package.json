@@ -1,0 +1,17 @@
+{
+  "name": "nodejs-tugas3",
+  "version": "1.0.0",
+  "description": "Tugas 3 Sanbercode Node.JS Backend",
+  "main": "index.js",
+  "scripts": {
+    "variables": "node ./src/variables.js",
+    "looping": "node ./src/looping.js",
+    "functions": "node ./src/functions.js",
+    "arrays": "node ./src/arrays.js",
+    "objects": "node ./src/objects.js",
+    "all": "node all.js"
+  },
+  "author": "Muhammad Ridwan Hakim",
+  "license": "ISC",
+  "dependencies": {}
+}
