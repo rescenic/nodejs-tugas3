@@ -11,7 +11,7 @@ npm install
 
 npm run variables
 npm run looping
-npm run functions,
+npm run functions
 npm run arrays
 npm run objects
 npm run all
