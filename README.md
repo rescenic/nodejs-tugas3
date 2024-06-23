@@ -7,6 +7,8 @@
 ```bash
 git clone https://github.com/rescenic/nodejs-tugas3.git
 
+cd nodejs-tugas3
+
 npm run variables
 npm run looping
 npm run functions
